@@ -1,0 +1,104 @@
+HR Analytics Dashboard | CodeAlpha Internship
+
+📌 Project Overview
+
+This project focuses on analysing Human Resources (HR) data using Microsoft Power BI. The dashboard provides insights into workforce distribution, employee attrition, satisfaction, performance, and factors associated with employee turnover.
+
+The objective is to transform raw HR data into meaningful insights that can help organisations make informed, data-driven workforce decisions.
+
+🎯 Project Objectives
+
+- Analyse employee demographics and workforce distribution.
+- Understand employee attrition patterns.
+- Evaluate employee satisfaction and performance.
+- Identify important factors associated with employee turnover.
+- Present interactive and AI-powered HR insights.
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Cleaning and Transformation
+- Data Visualization
+- Power BI Key Influencers AI Visual
+
+📊 Dashboard Pages
+
+1. HR Workforce Overview
+
+Provides an overview of the organisation's workforce through key performance indicators and visualisations.
+
+Key areas:
+
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Average Employee Age
+- Average Monthly Income
+- Employee distribution by department, gender, job role, age group, and education field.
+
+2. Attrition & Employee Insights
+
+Explores employee turnover and workplace-related factors.
+
+Key analysis:
+
+- Attrition by Department
+- Attrition by Job Role
+- Attrition by Overtime
+- Job Satisfaction
+- Work Environment Satisfaction
+- Employee Performance Ratings
+
+3. Key Influencers & Turnover Drivers
+
+Uses Power BI's Key Influencers visual to analyse factors associated with employee attrition.
+
+The analysis explores factors such as:
+
+- Overtime
+- Years at the Company
+- Work-Life Balance
+- Job Role
+- Monthly Income
+
+This page helps identify patterns that may support employee retention strategies.
+
+💡 Key Insights
+
+The dashboard helps HR teams:
+
+- Understand workforce composition.
+- Monitor employee attrition.
+- Identify departments and roles with higher turnover.
+- Evaluate employee satisfaction and performance.
+- Explore factors associated with employee attrition.
+
+📁 Project Files
+
+- "HR_Analytics_Dashboard.pbix" – Power BI dashboard file.
+- Dataset file – HR data used for analysis.
+- Dashboard screenshots – Visual representation of the project (if included).
+
+🎓 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Building interactive Power BI dashboards.
+- Cleaning and transforming HR data.
+- Creating KPIs and DAX measures.
+- Developing meaningful data visualisations.
+- Using AI-powered analytical visuals.
+- Communicating business insights through data.
+
+👩‍💻 Internship
+
+Organisation: CodeAlpha
+Project: Human Resources Analytics Dashboard
+Domain: Data Analytics
+Tool: Microsoft Power BI
+
+---
+
+This project was developed as part of my CodeAlpha internship to demonstrate practical skills in data analysis and business intelligence.
